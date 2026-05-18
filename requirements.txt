@@ -1,0 +1,61 @@
+# LangGraph / LangChain
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# OpenRouter
+langchain-openrouter
+
+# Tracing / Observability
+langfuse
+
+# Web search
+tavily-python
+
+# Environment / config
+python-dotenv
+pydantic
+pydantic-settings
+
+# RAG / Vector DB
+chromadb
+sentence-transformers
+
+# PDF ingestion
+pypdf
+pymupdf
+
+# Text splitting / parsing helpers
+beautifulsoup4
+lxml
+
+# Report / artifact generation
+markdown
+weasyprint
+jinja2
+
+# Image handling
+pillow
+
+# API server, optional but recommended
+fastapi
+uvicorn
+python-multipart
+
+# Testing
+pytest
+pytest-asyncio
+
+# Utilities
+rich
+tenacity
+langchain-qdrant
+langchain-ollama
+qdrant-client
+langchain-text-splitters
+pymupdf
+python-docx
+pandas
+reportlab

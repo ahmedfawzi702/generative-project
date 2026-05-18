@@ -1,0 +1,70 @@
+{
+  "folder": "data/raw_pdfs",
+  "files_count": 9,
+  "pages_or_docs_count": 2172,
+  "chunks_count": 4698,
+  "embedding_model": "nomic-embed-text:latest",
+  "embedding_dim": 768,
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "collection_name": "cybersecurity_docs",
+  "qdrant_path": "data/vectorstore/qdrant",
+  "chunk_size": 900,
+  "chunk_overlap": 120,
+  "index_signature": "3b260e1c4e1c1e56876ce242ec17206a84c4889cc368ebdaf3c70431cce50c2d",
+  "files": [
+    {
+      "name": "Android Hacker's Handbook.pdf",
+      "path": "data\\raw_pdfs\\Android Hacker's Handbook.pdf",
+      "size_bytes": 29344620,
+      "sha256": "d17af0a1a513328e14ae00914b3f841cef172e60a52faa1d61f1c7f8fa28e69d"
+    },
+    {
+      "name": "Android Security Internals _ An In-Depth Guide to Android's Security Architecture - Android_Security_Internals-An_In-Depth_Guide_to_Android_s_Security_Architecture.pdf",
+      "path": "data\\raw_pdfs\\Android Security Internals _ An In-Depth Guide to Android's Security Architecture - Android_Security_Internals-An_In-Depth_Guide_to_Android_s_Security_Architecture.pdf",
+      "size_bytes": 9478674,
+      "sha256": "0f17312ea6f4bb6e67a56161427e5a8358b64c795e4413081bafec1019e57c46"
+    },
+    {
+      "name": "Android_Enterprise_Security_White_Paper_2019.pdf",
+      "path": "data\\raw_pdfs\\Android_Enterprise_Security_White_Paper_2019.pdf",
+      "size_bytes": 469547,
+      "sha256": "0f66eed2123cc466229b5989f9d1b758698ce97948988b058c62d54dcc16672d"
+    },
+    {
+      "name": "Guidelines for Managing the Security of Mobile Devices in the Enterprise - NIST.SP.800-124r2.pdf",
+      "path": "data\\raw_pdfs\\Guidelines for Managing the Security of Mobile Devices in the Enterprise - NIST.SP.800-124r2.pdf",
+      "size_bytes": 1910476,
+      "sha256": "866a0599cfb619265aa180afbb760ab6680dbfa1ce352e6fcd8a9c8d91e56c5d"
+    },
+    {
+      "name": "handbook.pdf",
+      "path": "data\\raw_pdfs\\handbook.pdf",
+      "size_bytes": 19666088,
+      "sha256": "5dace9f5865976db126e1786b0ea6effe3fb054745a8e418c49608bb1afcf739"
+    },
+    {
+      "name": "INE-Mastering-Mobile-Security-and-Malware-Analysis-Course-File.pdf",
+      "path": "data\\raw_pdfs\\INE-Mastering-Mobile-Security-and-Malware-Analysis-Course-File.pdf",
+      "size_bytes": 5314028,
+      "sha256": "9652b1137e09e38daed4bcd850ba65c813f033c174411ac4b01ea0781e2c1cb3"
+    },
+    {
+      "name": "INE-Mobile-Application-Penetration-Testing-Techniques-Course-File.pdf",
+      "path": "data\\raw_pdfs\\INE-Mobile-Application-Penetration-Testing-Techniques-Course-File.pdf",
+      "size_bytes": 4931618,
+      "sha256": "da356018e96394b5f05fa3af62e5e4edf571fdbf4a0ceb6d0fc3ebeb181a00e7"
+    },
+    {
+      "name": "Introduction_to_Mobile_Application_Security-1.pdf",
+      "path": "data\\raw_pdfs\\Introduction_to_Mobile_Application_Security-1.pdf",
+      "size_bytes": 2239449,
+      "sha256": "44b113ca1ca333b4446c47234288ed683c74ebab0514546d1aca44bf2dc30340"
+    },
+    {
+      "name": "OWASP_MASVS (1).pdf",
+      "path": "data\\raw_pdfs\\OWASP_MASVS (1).pdf",
+      "size_bytes": 1016447,
+      "sha256": "93d48b6bf8595ad097c82a16faa03229922cbc88e3dc7e8db4fbe45ffc247d21"
+    }
+  ]
+}
